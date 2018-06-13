@@ -11,9 +11,27 @@
 // about supported directives.
 //
 //= require jquery3
+//= require jquery-migrate-min
 //= require popper
 //= require bootstrap-sprockets
 //= require rails-ujs
 //= require activestorage
 //= require turbolinks
+//= require creative
+//= require creative.min
+//= require bootstrap.bundle
+//= require bootstrap.bundle.min
+//= require bootstrap
+//= require bootstrap.min
+//= require jquery.easing.compatibility
+//= require jquery.easing
+//= require jquery.easing.min
+//= require jquery
+//= require jquery.magnific-popup
+//= require jquery.magnific-popup.min
+//= require jquery.min
+//= require jquery.slim
+//= require jquery.slim.min
+//= require scrollreveal
+//= require scrollreveal.min
 //= require_tree .
